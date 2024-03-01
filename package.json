@@ -4,6 +4,7 @@
   "description": "Architecture Portfolio",
   "main": "gallery.js",
   "scripts": {
+    "start": "node js/gallery.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
