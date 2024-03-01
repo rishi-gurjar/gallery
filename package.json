@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andyzg/gallery.git"
+    "url": "git+https://github.com/rishi-gurjar/gallery.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andyzg/gallery/issues"
+    "url": "https://github.com/rishi-gurjar/gallery/issues"
   },
-  "homepage": "https://github.com/andyzg/gallery#readme",
+  "homepage": "https://github.com/rishi-gurjar/gallery#readme",
   "dependencies": {
     "image-size": "^0.5.0"
   }
